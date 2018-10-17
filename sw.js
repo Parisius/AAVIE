@@ -103,11 +103,11 @@ const staticAssets = [
 ]
 
 
-/*self.addEventListener('install', async e => {
+self.addEventListener('install', async e => {
     const cache = await caches.open('aavie-static')
     cache.addAll(staticAssets);
-   });*/
-/*
+   });
+
 self.addEventListener('fetch', event => {
     const req = event.request;
     const url = new URL(req.url);
@@ -138,4 +138,3 @@ async function networkFirst(req)
         return cachedResponse || await caches.match('fallback.json');
     }
 }
-*/

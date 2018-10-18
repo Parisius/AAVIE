@@ -55,7 +55,6 @@ const staticAssets = [
 'images/icons/android-chrome-512x512.png',
 'images/icons/apple-touch-icon.png',
 'images/reass/h.png',
-
 '404.php',
 'abouten.php',
 'aboutorg.php',
@@ -78,7 +77,6 @@ const staticAssets = [
 'portfolio.html',
 'signin.html',
 'signup.html',
-
 'css/bootstrap.css',
 'css/contact.css',
 'css/font-awesome.css',
@@ -89,7 +87,13 @@ const staticAssets = [
 'css/style.css',
 'css/team.css',
 'css/test.css',
-
+'js/bootstrap.js',
+'js/easing.js',
+'js/jquery-1.7.2.js',
+'js/jquery-2.2.3.min.js',
+'js/jquery.prettyPhoto.js',
+'js/jquery.quicksand.js',
+'js/script.js',
 'fonts/FontAwesome.otf',
 'fonts/fontawesome-webfont.eot',
 'fonts/fontawesome-webfont.svg',
@@ -97,7 +101,6 @@ const staticAssets = [
 'fonts/glyphicons-halflings-regular.woff',
 'fonts/fontawesome-webfont.woff2',
 'fonts/glyphicons-halflings-regular.woff2',
-
 'json/articles.json',
 'json/products.json',
 ]

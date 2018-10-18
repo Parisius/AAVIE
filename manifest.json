@@ -1,5 +1,5 @@
 {
-    "name": "AAVIE DIgital",
+    "name": "AAVIE Digital",
     "short_name": "AAVIE",
     "start_url": ".",
     "icons": [
@@ -21,7 +21,7 @@
 
     ],
     "theme_color": "#33b04a",
-    "background_color": "#33b04a",
+    "background_color": "#2aca7fc0",
     "display": "standalone",
     "orientation": "portrait"
 }
